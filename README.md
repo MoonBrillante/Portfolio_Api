@@ -3,13 +3,13 @@
 ## Información Técnica
 
 Metodología de Gestión:
- - Usaré la metodología de trabajo SCRUM.
+ - Desarrollo usando la metodología de trabajo SCRUM.
  
 ## Tecnologías Utilizadas:
  - Frontend: Desarrollado en React,
  - Backend: Desarrollado en Spring Boot
 ## Operaciones CRUD:
- - El proyecto ebe implementar un CRUD (Create, Read, Update, Delete) que permita subir proyectos a la base de datos.
+ - El proyecto implementa un CRUD (Create, Read, Update, Delete) que permite subir proyectos a la base de datos.
  - Campos del formulario:
  - Nombre
  - Descripción
