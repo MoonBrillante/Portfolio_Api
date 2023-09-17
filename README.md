@@ -28,7 +28,7 @@ Metodología de Gestión:
   npm install react-icons
   npm install cloudinary-react
 ```
-# Además, se utilizan las siguientes herramientas en este proyecto:
+# Se utilizan las siguientes herramientas en este proyecto:
 
 ## Trello: 
  - Utilizado para la gestión y organización de tareas y proyectos. 
