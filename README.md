@@ -1,17 +1,15 @@
 # Portafolio
- - Este proyecto es un portafolio en línea que te permite mostrar tu trabajo y permite que otras personas conozcan más acerca de ti.
-## Requerimientos Técnicos
+ - Este proyecto es un portafolio en línea que te permitirá conocer mi trabajo como desarolladora web Full Stack.
+## Información Técnica
 
 Metodología de Gestión:
- - El proyecto ser gestionado utilizando el marco de trabajo SCRUM.
-  
-Responsividad: La página debe ser completamente responsiva, asegurando una óptima visualización en diferentes dispositivos y tamaños de pantalla.
-
+ - Usaré la metodología de trabajo SCRUM.
+ 
 ## Tecnologías Utilizadas:
  - Frontend: Desarrollado en React,
  - Backend: Desarrollado en Spring Boot
 ## Operaciones CRUD:
- - El proyecto debe implementar un CRUD (Create, Read, Update, Delete) que permita subir proyectos a la base de datos.
+ - El proyecto ebe implementar un CRUD (Create, Read, Update, Delete) que permita subir proyectos a la base de datos.
  - Campos del formulario:
  - Nombre
  - Descripción
