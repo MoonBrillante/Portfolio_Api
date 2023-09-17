@@ -31,6 +31,8 @@ Responsividad: La página debe ser completamente responsiva, asegurando una ópt
 ```
 # Además, se utilizan las siguientes herramientas en este proyecto:
 
-## Trello: Utilizado para la gestión y organización de tareas y proyectos. 
+## Trello: 
+ - Utilizado para la gestión y organización de tareas y proyectos. 
 
-## Figma: Utilizado para el diseño y prototipado de la interfaz de usuario. 
+## Figma: 
+ - Utilizado para el diseño y prototipado de la interfaz de usuario. 
