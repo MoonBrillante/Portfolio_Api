@@ -1,5 +1,5 @@
 # Portafolio
- - Este proyecto es un portafolio en línea que te permitirá conocer mi trabajo como desarolladora web Full Stack.
+ - Este proyecto es un portafolio en línea que te permitirá conocer mi trabajo como desarrolladora web Full Stack.
 ## Información Técnica
 
 Metodología de Gestión:
