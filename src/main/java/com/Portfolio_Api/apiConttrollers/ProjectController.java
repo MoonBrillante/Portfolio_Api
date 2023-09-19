@@ -36,8 +36,10 @@ public class ProjectController {
 
 
     @PutMapping("/{id}")
-    public void updateProject(@PathVariable Integer id, @RequestParam String name,
-                              @RequestParam String description,@RequestParam String technology,
+    public void updateProject(@PathVariable Integer id,
+                              @RequestParam String name,
+                              @RequestParam String description,
+                              @RequestParam String technology,
                               @RequestParam MultipartFile img) throws IOException {
         projectService.update(id, name, description,technology,img);
     }

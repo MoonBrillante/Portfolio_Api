@@ -42,6 +42,7 @@ public class ProjectService {
         projectRepository.save(project);
     }
 
+
     public void update(Integer id, String name,String description, String technology,MultipartFile img) throws IOException {
 
         Project projectEncontrado = projectById(id);
